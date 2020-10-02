@@ -6,3 +6,4 @@ eleventyNavigation:
 ---
 
 Welcome to Eleventy starter.
+Bonjour tout le monde.
